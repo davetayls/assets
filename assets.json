@@ -1,0 +1,13 @@
+{
+  "blueprint": {
+    "base": "https://github.com/joshuaclayton/blueprint-css/raw/v{version}/blueprint",
+    "description": "css framework",
+    "tags": ["css"],
+    "files": [
+      "src/print.css",
+      "src/reset.css",
+      "src/typography.css"
+    ],
+    "version": "1.0"
+  }
+}
